@@ -1,0 +1,1 @@
+set InstallDir=WININST\WIN1
